@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is the Home page for Yayue Hou"
+title: "Yayue Hou (侯雅玥)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Yayue Hou (侯雅玥)
-=====
+
 Yayue Hou is currently a PhD student of Rensselaer Polytechnique Institute.
 - **Yayue Hou is currently looking for 2026 Summer Internship.**
 
