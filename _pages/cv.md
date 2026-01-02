@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download .pdf]("https://github.com/YayueHou/YayueHou.github.io/blob/master/files/YayueHou_Resume.pdf") 
+[Download .pdf](https://github.com/YayueHou/YayueHou.github.io/blob/master/files/YayueHou_Resume.pdf) 
 
 Research Interests
 ======
