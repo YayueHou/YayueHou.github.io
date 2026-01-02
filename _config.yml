@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Yayue Hou (侯雅玥)"
 title_separator          : "-"
 name                     : &name "Yayue Hou"
@@ -228,9 +228,9 @@ collections:
   portfolio:
     output: False
     permalink: /:collection/:path/
-  #talks:
-  #  output: False
-  #  permalink: /:collection/:path/
+  talks:
+    output: False
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -281,13 +281,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  #- scope:
-  #    path: ""
-  #    type: talks
-  #  values:
-  #    layout: talk
-  #    author_profile: true
-  #    share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
