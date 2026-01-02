@@ -1,7 +1,7 @@
 ---
 title: "NORA: Noise-Optimized Rescaling of LLMs on Analog Compute-in-Memory Accelerators"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-DATE-NORA
 excerpt: 'This paper is about increase model resilience when running on Analog Compute-in-Memory Systems'
 date: 2025
