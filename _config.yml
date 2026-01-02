@@ -228,9 +228,9 @@ collections:
   portfolio:
     output: False
     permalink: /:collection/:path/
-  talks:
-    output: False
-    permalink: /:collection/:path/
+  #talks:
+  #  output: False
+  #  permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
